@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e6c87c37-abf5-411f-9956-8fa6001920a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_14_CMD_Scripting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cinderella" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonTestData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ImTheo-pdf"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ImTheo-pdf/Lab_14_CMD_Scripting.git",
+    "accountId": "4fadb451-1fd7-42c3-840e-75555cb283a5"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -26,10 +50,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataSaver.executor": "Run",
+    "Application.FileScan.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.FileScan">
+    <configuration name="FileScan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileScan" />
+      <module name="Lab_14_CMD_Scripting" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Tre\OneDrive\Programming\Lab_14_CMD_Scripting\src\PersonTestData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="." type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileScan" />
+      <module name="Lab_14_CMD_Scripting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.." />
+      <item itemvalue="Application.FileScan" />
+    </list>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e6c87c37-abf5-411f-9956-8fa6001920a6" name="Changes" comment="" />
